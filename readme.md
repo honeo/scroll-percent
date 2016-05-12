@@ -1,5 +1,5 @@
 # scroll-percent
-[username/scroll-percent](https://github.com/username/scroll-percent)  
+[honeo/scroll-percent](https://github.com/honeo/scroll-percent)  
 [scroll-percent](https://www.npmjs.com/package/scroll-percent)
 
 ## なにこれ
