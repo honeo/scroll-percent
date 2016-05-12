@@ -20,7 +20,7 @@ scrollTopPercent(element);
 ## Prototype拡張
 ご利用は計画的に。
 ```js
-import from 'scroll-percent/register';
+import 'scroll-percent/register';
 
 element.scrollTopPercent();
 > 0 ~ 100
