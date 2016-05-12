@@ -21,6 +21,4 @@ Object.defineProperty(HTMLElement.prototype, 'scrollTopPercent', {
     enumerable: false
 });
 
-export default
-	typeof HTMLElement.prototype.scrollLeftPercent==='function' &&
-	typeof HTMLElement.prototype.scrollTopPercent==='function';
+export default true;
