@@ -1,6 +1,6 @@
 {
   "name": "scroll-percent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Element#scrollTop,scrollLeftの％版",
   "main": "index.js",
   "scripts": {
